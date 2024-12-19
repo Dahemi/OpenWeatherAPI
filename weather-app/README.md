@@ -33,7 +33,7 @@ npm install
 ```
 3. Create a .env file in the root directory:
 ```bash
-VITE_OPENWEATHER_API_KEY=your_api_key_here
+VITE_OPENWEATHER_API_KEY=*******
 ``` 
 4.Start the development server:
 ```bash
