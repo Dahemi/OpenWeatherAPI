@@ -62,9 +62,10 @@ Weather icons
 Loading states
 Error handling
 
+![image](https://github.com/user-attachments/assets/5fe665aa-4ea4-4a4b-a429-9b857a0bde32)
 
 ![image](https://github.com/user-attachments/assets/ba0d45d5-ec4b-4ebc-a3e6-6d05e665c3b0)
-![image](https://github.com/user-attachments/assets/5fe665aa-4ea4-4a4b-a429-9b857a0bde32)
+
 
 
 
