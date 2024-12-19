@@ -24,7 +24,7 @@ A modern, responsive weather application built with React and Material-UI that p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Dahemi/weather-app.git
 cd weather-app
 ```
 2. Install dependencies:
